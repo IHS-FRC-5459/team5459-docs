@@ -155,7 +155,10 @@ Finally!
 ![Imported project]
 (strongback-setup.resources/import-project.png)
 
-### Potential  errors after import 
+## Potential  errors after import 
+
+If your project does not look like the imported project above (free of errors and such), 
+see if any of these are issued.
 
 #### You might get "classpath errors" with an error icon on the project.
 ![Classpath Error Markers]
