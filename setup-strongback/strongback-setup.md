@@ -51,7 +51,7 @@ Then use Window Control Panel (e.g., "My Computer" > "Properties" > "Advanced" >
 ### Verify Path
 
 > 1. Create a new command window
-> 2. Try running "strongback.bat -v" which should return the strongback version.
+> 2. Try running "strongback version" which should return the strongback version.
 
 ## MacOs/*nix 
 
@@ -117,12 +117,12 @@ When you have all the classpath variables added - it will look like this.
 
 NOW, you’re set up to run strongback.sh
 
-*  It creates a project in the folder you're currently "in" (your *Current WOrking Default* )
+*  It creates a project in the folder you're currently "in" (your *Current Working Default* )
 *  First time, the workspace properties get updated to add the strongback user library.
 
 ```
 $ cd <Workspace Folder> 
-$ strongback.sh new-project -d . -e -n robotex -p edu.ihs5459.robotex
+$ strongback new-project -d . -e -n robotex -p edu.ihs5459.robotex
 Successfully created new project at: /Users/adevoe/WorkspacesM/ihsfirst/robotex
 
 Project ready for importing into Eclipse workspace.
