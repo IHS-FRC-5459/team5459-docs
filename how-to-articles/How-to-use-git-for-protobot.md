@@ -12,4 +12,4 @@ back into your 'fork', then generate a 'pull request' to merge the changes into 
 
 Logically - this is what it looks like: 
 
-![Triangle workflow ] (https://i.stack.imgur.com/Lx7do.png "Triangular Workflow")
+![Triangle workflow ](https://i.stack.imgur.com/Lx7do.png "Triangular Workflow")
