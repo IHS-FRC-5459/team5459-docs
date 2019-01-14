@@ -5,10 +5,21 @@ This document discusses how to use "FORKS" to manage source control for the prot
 We're going to 'fork' the Protobot repo and make changes.  After you're done, you'll push your changes
 back into your 'fork', then generate a 'pull request' to merge the changes into the main line protobot.
 
-## Read this! ## 
+Github has TONS of examples of code to learn from.  Other teams also have their sources loaded here
+and you can see how they did things.
 
-* This doc shows how to fork a repository and work on fixes.  It also has a place to try this out
+For those of you (ahem Mr. Platt) - here are some GUI clients you can download and use in lieu of 
+the command line.
+
+* https://git-scm.com/download/gui/windows
+
+## Read these documents! ## 
+
+* Github 'bootcamp' pages  - https://help.github.com/categories/bootcamp/
+* This doc shows how to fork a repository and work on fixes.  This is 
+ _EXACTLY_ how we did it last year.  
   -  https://help.github.com/articles/fork-a-repo/
+
 
 Logically - 
 * Upstream - the original protobot repo
@@ -18,7 +29,7 @@ Logically -
 ![Triangle workflow ](https://i.stack.imgur.com/Lx7do.png "Triangular Workflow")
 
 
-## Mechanics 
+## Mechanics of working on a project.
 
 Run these commands after your fork your repo.
 
